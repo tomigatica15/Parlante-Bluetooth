@@ -1,0 +1,13 @@
+Amplificador solo 
+1.6mA
+2.2mA
+2.6mA
+1.4mA?
+
+Salida 7812 (con transistor)
+2.4mA
+
+Transformador
+220 / 22.2
+
+Ahora consume 1.6A y se prende fuego el cable +
